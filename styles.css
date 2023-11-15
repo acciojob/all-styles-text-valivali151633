@@ -1,2 +1,14 @@
 
 /* Your CSS Code here. */
+.main{
+	Width: 200px;
+   Background-color: purple;
+
+ border-Left: 5px solid green;
+Padding: 10px;
+}
+#heading{
+	font-size:20px;
+	color:white;
+	text-decoration:underline;
+}
